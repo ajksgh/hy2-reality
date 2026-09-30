@@ -29,8 +29,12 @@ HY2_HOP=1 bash <(curl -fsSL https://raw.githubusercontent.com/ajksgh/hy2-reality
 已确认你的 raw 链接返回 **200**，可以正常拉取。
 
 # 声明：
-能不能用不知道没测试过！
+上面两个是用AI修改的能不能用不知道没测试过！
 
+下面这个是百分百可以的：
+```
+bash <(curl -fsSL https://raw.githubusercontent.com/ajksgh/hy2-reality/main/hy2-reality.sh)
+```
  # codex
 hy2-reality.hopping.sh
  # grok
