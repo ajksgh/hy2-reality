@@ -28,6 +28,9 @@ HY2_HOP=1 bash <(curl -fsSL https://raw.githubusercontent.com/ajksgh/hy2-reality
 
 已确认你的 raw 链接返回 **200**，可以正常拉取。
 
+# 声明：
+自己裸机测试能用再用，不要用主力机或者有重要资料的机器来使用！
+
  # codex
 hy2-reality.hopping.sh
  # grok
