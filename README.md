@@ -1,5 +1,5 @@
 
-# raw 链接：
+# hy2-reality-optimized.sh — Hysteria2 + Reality 二合一安装脚本 (优化版)
 
 ```bash
 bash <(curl -fsSL https://raw.githubusercontent.com/ajksgh/hy2-reality/main/hy2-reality-optimized.sh)
